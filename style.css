@@ -1,0 +1,85 @@
+.header {
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    margin-top: 20px;
+}
+
+.header h1 {
+    background-color: slateblue;
+    padding-bottom: 150px;
+    align-items: center;
+}
+
+.header div {
+    background-color: rgb(142, 140, 160);
+    align-items: center;
+    display: flex;
+    margin-left: 80px;
+    padding-left: 80px;
+    margin-left: 80px;
+}
+
+#un {
+    background-color: tomato;
+    padding-bottom: 150px;
+    margin-right: 20px;
+    padding: 50px;
+}
+
+#deux {
+    background-color: rgb(199, 187, 185);
+    padding-bottom: 150px;
+    margin-right: 20px;
+    padding: 50px;
+}
+
+#trois {
+    background-color: rgba(199, 187, 185, 0.13);
+    padding-bottom: 150px;
+    margin-right: 20px;
+    padding: 50px;
+}
+
+#quatre {
+    background-color: rgb(199, 187, 185);
+    padding-bottom: 150px;
+    margin-right: 20px;
+    padding: 50px;
+}
+
+.mid {
+    display: flex;
+    text-align: center;
+    display: flex;
+    align-items: center;
+    margin-top: 30px;
+}
+
+.midbar {
+    background-color: rgb(102, 8, 102);
+    align-items: center;
+    display: flex;
+    margin-left: 80px;
+    padding-left: 60px;
+    margin-left: 10px;
+    justify-content: space-between;
+    padding-bottom: 150px;
+}
+
+.mid img {
+    margin-right: 20px;
+    padding-bottom: 20px;
+}
+
+.mid #text {
+    background-color: gray;
+    padding-bottom: 500px;
+    padding-top: 35px;
+}
+
+#text2 {
+    background-color: slateblue;
+    padding-bottom: 150px;
+    align-items: center;
+}
